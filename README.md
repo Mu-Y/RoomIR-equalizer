@@ -16,6 +16,6 @@ Run main.m in Matlab
 '''
 
 ## Results:
-![asdf][figure]
+![Room Impulse Response Calibration][figure]
 
-[figure](figure.png)
+[figure]: figure.png
